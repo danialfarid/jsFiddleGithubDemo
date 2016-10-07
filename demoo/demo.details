@@ -7,8 +7,7 @@ authors:
 resources:
   - /js/empty.js
   - /css/normalize.css
-  - /demoo/demo.ts
-  - /demo.ts
+  - https://rawgit.com/danialfarid/jsFiddleGithubDemo/tree/master/demoo/demo.ts
 normalize_css: yes
 lang_css: SCSS
 ...
