@@ -7,6 +7,8 @@ authors:
 resources:
   - /js/empty.js
   - /css/normalize.css
+  - /demoo/demo.ts
+  - /demo.ts
 normalize_css: yes
 lang_css: SCSS
 ...
